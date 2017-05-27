@@ -1,4 +1,4 @@
-# Protect Yourself Again Scammers
+# Protect Yourself Against Scammers
 
 Over the past months, scammers have gotten more sophisticated. Always be on alert when you are transferring money take precautions:
  
