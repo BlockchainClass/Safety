@@ -24,20 +24,4 @@ A fake Arthur Breitman from Tezos… notice the period after the username
 
 [Cold storage for dummies. Does a simple guide exist?](https://www.reddit.com/r/ethereum/comments/55k8w2/cold_storage_for_dummies_does_a_simple_guide_exist/)
 
-## Recent scams to be aware of
-
-Impersonating a website (mobilego.io vs mobilegoproject.io)
-
-<img src="https://i.imgur.com/vtcBake.jpg" width="41%"> <img src="https://i.imgur.com/tx2yWpn.jpg" width="40%">
-
-Impersonating a Twitter account (AragonProject vs Araqon Project)
-
-<img src="https://i.imgur.com/DwYRQOE.png" width="50%">
-
-Impersonating a bot to spread a fake tokensale address
-
-<img src="https://i.imgur.com/O8VCgJ7.png" width="50%">
-
-Impersonating an advisor
-
-<img src="https://i.imgur.com/CeSEjto.png" width="50%">
+## [See Recent Scams](https://github.com/Scanate/ScamList/)
